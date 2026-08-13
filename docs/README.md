@@ -8,7 +8,6 @@ Day-to-day work is managed through a consistent GitHub Projects workflow of Back
 
 ## Documentation Links
 
-- [README: OctoAcme Project Management Processes Summary and Documentation Links](./README.md)
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
 - [OctoAcme Project Initiation Guide](./octoacme-project-initiation.md)
 - [OctoAcme Project Planning](./octoacme-project-planning.md)
